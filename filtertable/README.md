@@ -4,7 +4,7 @@
 -- Built using re-usable components from Ant Design 
 
 ## Tech-stack
-<img style={{width: "50%", height: "50%"}} src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" alt ="React" />
+<img width="200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" alt ="React" />
 ![image](https://github.com/saikiran76/AntTable/assets/80874246/b61d91e5-f7d2-47e2-8fd6-3bc01da989cd)
 ![image](https://github.com/saikiran76/AntTable/assets/80874246/f5bb63ce-1c8a-4dd6-b003-27a1cbc76fd4)
 
