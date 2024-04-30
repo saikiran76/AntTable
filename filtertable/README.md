@@ -5,8 +5,8 @@
 
 ## Tech-stack
 <img width="200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" alt ="React" />
-<img width="200" src=["https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonduck.com%2Ficons%2F27540%2Fjavascript-js&psig=AOvVaw10XBGPTd1sq8N1e3Q3vPQr&ust=1714559448599000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNj0mend6YUDFQAAAAAdAAAAABAE)" alt ="React" />
-<img width="200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" alt ="React" />
+<img width="200" src="https://static-00.iconduck.com/assets.00/javascript-js-icon-2048x2048-nyxvtvk0.png" alt ="React" />
+<img width="200" src="https://static-00.iconduck.com/assets.00/ant-design-icon-2048x2046-dl3neb73.png" alt ="React" />
 
 
 ## Glimpse of the UI
